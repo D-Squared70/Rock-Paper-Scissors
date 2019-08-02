@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors
 
+<img src="RPS_Screenshot.PNG" height=500px>
+
 Project --> Rock Paper Scissors with "whatsdev" on YouTube
 
 Tools --> CSS, HTML, JavaScript
